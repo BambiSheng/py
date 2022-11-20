@@ -1,1 +1,1 @@
-# python rookie
+# python rookie learning
